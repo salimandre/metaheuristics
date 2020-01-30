@@ -8,7 +8,7 @@ My own work for the Metaheuristics course consisted on implementing the followin
 
 These algorithms have been tested on toy examples. 
 
-Although some have been tried in the context of <strong>Google Challenge<\strong>. More details on this competition below.
+Although some have been tried in the context of <strong>Google Challenge</strong>. More details on this competition below.
 
 ## Brute Force Algorithm on LP with hypercube constraint
 
