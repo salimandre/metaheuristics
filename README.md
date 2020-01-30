@@ -12,6 +12,7 @@ Although some have been tried in the context of Google Challenge. More details o
 
 ## Brute Force Algorithm on LP with hypercube constraint
 
+min $\vert$
 ## Simulated Annealing applied to non-convex optimization problem
 
 ## Simplex Method applied to linear programming
