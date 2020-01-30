@@ -6,7 +6,9 @@ My own work for the course of Metaheuristics consisted on implementing the follo
 * Simplex method
 * Genetic Annealing (GA)
 
-These algorithms have been used on toy examples. Some have been tried in the context of Google Challenge. More details on this competition below.
+These algorithms have been tested on toy examples. 
+
+Although some have been tried in the context of Google Challenge. More details on this competition below.
 
 ## Brute Force Algorithm on LP with hypercube constraint
 
