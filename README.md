@@ -26,4 +26,4 @@ Although some have been tried in the context of Google Challenge. More details o
 
 Original optimization problem:
 
-
+<img src="http://bit.ly/2UaYtem" align="center" border="0" alt="\underset{x\in \mathbb{R}^{n}}{\text{minimize}} \ \langle x,c \rangle \\ \text{s.t.} \begin{cases} & x_{i} \in \{0,1\}, \ i = 1...n \\ & \langle x,c \rangle \leq m \\ \end{cases}" width="232" height="82" />
