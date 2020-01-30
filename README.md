@@ -1,6 +1,6 @@
 # metaheuristics
 
-Following algorithms:
+My own work for the course of Metaheuristics consisted on implementing the following algorithms:
 * Brute Force Algorithm
 * Simulated Annealing (SA)
 * Simplex method
