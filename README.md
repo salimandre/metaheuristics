@@ -25,3 +25,11 @@ Although some have been tried in the context of Google Challenge. More details o
 Original optimization problem:
 
 ![0.3](google_challenge_eq.jpg)
+
+Relaxed optimization problem: 
+
+![0.3](google_challenge_relax_eq.jpg)
+
+We get a LP optimization problem: 
+
+![0.3](google_challenge_can_eq.jpeg)
