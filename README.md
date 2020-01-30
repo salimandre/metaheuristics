@@ -16,7 +16,7 @@ Although some have been tried in the context of <strong>Google Challenge</strong
 
 ## Simplex Method applied to linear programming
 
-## Genetic Algorithm applied Traveling Salesman Problem
+## Genetic Algorithm applied to Traveling Salesman Problem
 
 ![0.3](ga_tsp.gif)
 
