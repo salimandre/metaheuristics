@@ -12,7 +12,13 @@ Although some have been tried in the context of Google Challenge. More details o
 
 ## Brute Force Algorithm on LP with hypercube constraint
 
-min $\vert$
+\underset{x\in \mathbb{R}^{n}}{\text{minimize}} \ \langle x,c \rangle \\
+\text{s.t.}
+\begin{cases}
+& x_{i} \in \{0,1\}, \ i = 1...n \\
+& \langle x,c \rangle \leq m \\
+\end{cases} 
+
 ## Simulated Annealing applied to non-convex optimization problem
 
 ## Simplex Method applied to linear programming
