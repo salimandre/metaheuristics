@@ -6,4 +6,4 @@
 
 ## Genetic algorithm applied Traveling Salesman Problem
 
-![](ga_tsp.gif)
+![0.7](ga_tsp.gif)
