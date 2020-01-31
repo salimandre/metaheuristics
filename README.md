@@ -31,6 +31,10 @@ with a fast update using uniform sampling and the following cooling schedule:
 
 ## Particle Swarm Optimization algorithm applied to Rosenbrock minimization
 
+We used PSO in order to solve the following optimization problem:
+
+<img src="pso_eq.png" width="45%">
+
 ![0.3](pso_rosen.gif)
 
 ## Google Challenge
