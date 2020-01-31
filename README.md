@@ -27,6 +27,8 @@ with a fast update using uniform sampling and the following cooling schedule:
 
 ## Genetic Algorithm applied to Traveling Salesman Problem
 
+We applied GA to solve TSP on a sample on 9 random points. We computed euclidian distances between them as cost of edges. We used a population of 8 individuals, a proba of mutation of 0.15. We show the loop corresponding to the worst solution at each generation and added the associated cost in terms of distance. The number of mutations at each generation is also indicated.
+
 ![0.3](ga_tsp2.gif)
 
 ## Particle Swarm Optimization algorithm applied to Rosenbrock minimization
