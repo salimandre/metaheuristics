@@ -15,6 +15,11 @@ Although some have been tried in the context of <strong>Google Challenge</strong
 
 ## Simulated Annealing applied to non-convex optimization problem
 
+We used SA to maximize the following fitness function:
+<img src="sa_fitness.png" width="45%">
+with a fast update using uniform sampling and the following cooling schedule:
+<img src="sa_cooling.png" width="45%">
+
 <img src="sa.png" width="45%">
 
 ## Simplex Method applied to linear programming
