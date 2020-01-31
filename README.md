@@ -15,7 +15,7 @@ Although some have been tried in the context of <strong>Google Challenge</strong
 
 ## Simulated Annealing applied to non-convex optimization problem
 
-<img src="sa.png" width="30%">
+<img src="sa.png" width="45%">
 
 ## Simplex Method applied to linear programming
 
