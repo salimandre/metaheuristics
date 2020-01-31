@@ -33,7 +33,7 @@ with a fast update using uniform sampling and the following cooling schedule:
 
 We used PSO in order to solve the following optimization problem:
 
-<img src="pso_eq.png" width="25%">
+<img src="pso_eq.png" width="30%">
 
 ![0.3](pso_rosen.gif)
 
