@@ -27,7 +27,7 @@ with a fast update using uniform sampling and the following cooling schedule:
 
 ## Genetic Algorithm applied to Traveling Salesman Problem
 
-![0.3](ga_tsp.gif)
+![0.3](ga_tsp2.gif)
 
 ## Particle Swarm Optimization algorithm applied to Rosenbrock minimization
 
