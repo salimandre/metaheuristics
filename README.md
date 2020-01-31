@@ -17,7 +17,7 @@ Although some have been tried in the context of <strong>Google Challenge</strong
 
 We used SA to maximize the following fitness function:
 
-<img src="sa_fitness.png" width="45%">
+<img src="sa_fitness.png" width="35%">
 with a fast update using uniform sampling and the following cooling schedule:
 <img src="sa_cooling.png" width="15%">
 
