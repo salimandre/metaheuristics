@@ -5,6 +5,7 @@ My own work for the Metaheuristics course consisted on implementing the followin
 * Simulated Annealing (SA)
 * Simplex method
 * Genetic Annealing (GA)
+* Particle swarm optimization (PSO)
 
 These algorithms have been tested on toy examples. 
 
@@ -19,6 +20,10 @@ Although some have been tried in the context of <strong>Google Challenge</strong
 ## Genetic Algorithm applied to Traveling Salesman Problem
 
 ![0.3](ga_tsp.gif)
+
+## Particle Swarm Optimization algorithm applied to Rosenbrock minimization
+
+![0.3](pso_rosen.gif)
 
 ## Google Challenge
 
