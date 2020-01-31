@@ -19,7 +19,7 @@ We used SA to maximize the following fitness function:
 
 <img src="sa_fitness.png" width="45%">
 with a fast update using uniform sampling and the following cooling schedule:
-<img src="sa_cooling.png" width="30%">
+<img src="sa_cooling.png" width="15%">
 
 <img src="sa.png" width="45%">
 
