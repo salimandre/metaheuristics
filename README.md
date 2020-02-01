@@ -13,7 +13,9 @@ Although some have been tried in the context of <strong>Google Challenge</strong
 
 ## Brute Force Algorithm on LP with hypercube constraint
 
-<img src="naive_lp_eq.png" width="35%">
+We solved the following LP problem using a very naive method since we did an exhaustive search over basic feasible solutions of this LP. Basic feasible solutions are vertices of constraint polytope.
+
+<img src="naive_lp_eq.png" width="25%">
 
 <img src="naive_lp.gif" width="45%">
 
