@@ -25,6 +25,8 @@ with a fast update using uniform sampling and the following cooling schedule:
 
 ## Simplex Method applied to linear programming
 
+![0.3](naive_lp.gif)
+
 ## Genetic Algorithm applied to Traveling Salesman Problem
 
 We applied GA to solve TSP on a sample of 9 random points. We computed euclidian distances between them as cost for edges. We used a population of 8 individuals, a proba of mutation of 0.15. We show the loop corresponding to the worst solution at each generation and added the associated cost in terms of distance. The number of mutations at each generation is also indicated.
