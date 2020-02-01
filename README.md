@@ -13,6 +13,8 @@ Although some have been tried in the context of <strong>Google Challenge</strong
 
 ## Brute Force Algorithm on LP with hypercube constraint
 
+![0.3](naive_lp.gif)
+
 ## Simulated Annealing applied to non-convex optimization problem
 
 We used SA to maximize the following fitness function:
@@ -24,8 +26,6 @@ with a fast update using uniform sampling and the following cooling schedule:
 <img src="sa.png" width="45%">
 
 ## Simplex Method applied to linear programming
-
-![0.3](naive_lp.gif)
 
 ## Genetic Algorithm applied to Traveling Salesman Problem
 
