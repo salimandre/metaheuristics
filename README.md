@@ -13,7 +13,7 @@ Although some have been tried in the context of <strong>Google Challenge</strong
 
 ## Brute Force Algorithm on LP with hypercube constraint
 
-We solved the following LP problem using a very naive method since we did an exhaustive search over basic feasible solutions of this LP. Basic feasible solutions are vertices of constraint polytope.
+We solved the following LP problem using a very naive method since we did an exhaustive search over basic feasible solutions of this LP. Basic feasible solutions are vertices of constraint polytope, here an hypercube of dimension d with 2^d vertices.
 
 <img src="naive_lp_eq.png" width="25%">
 
