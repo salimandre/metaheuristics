@@ -13,7 +13,7 @@ Although some have been tried in the context of <strong>Google Challenge</strong
 
 ## Brute Force Algorithm on LP with hypercube constraint
 
-![0.1](naive_lp.gif)
+![0.8](naive_lp.gif)
 
 ## Simulated Annealing applied to non-convex optimization problem
 
