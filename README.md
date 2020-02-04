@@ -35,7 +35,7 @@ We applied Revisited Simplex Method to the following LP problem in dimension 50.
 
 <img src="simplex_eq.png" width="25%">
 
-<img src="simplex.gif" width="45%">
+<img src="simplex_method.gif" width="45%">
 
 ## Genetic Algorithm applied to Traveling Salesman Problem
 
