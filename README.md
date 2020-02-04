@@ -29,7 +29,13 @@ with a fast update using uniform sampling and the following cooling schedule:
 
 <img src="sa.png" width="45%">
 
-## Simplex Method applied to linear programming
+## Simplex Method applied to Linear Programming (LP)
+
+We applied Revisited Simplex Method to the following LP problem in dimension 50.
+
+<img src="simplex_eq.png" width="25%">
+
+<img src="simplex.gif" width="45%">
 
 ## Genetic Algorithm applied to Traveling Salesman Problem
 
