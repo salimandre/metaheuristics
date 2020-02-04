@@ -11,11 +11,11 @@ These algorithms have been tested on toy examples.
 
 Although some have been tried in the context of <strong>Google Challenge</strong>. More details on this competition below.
 
-## Brute Force Algorithm on LP with hypercube constraint
+## Brute Force Algorithm on Integer Linear Programming (ILP)
 
-We solved the following LP problem using a very naive method since we did an exhaustive search over basic feasible solutions of this LP. Basic feasible solutions are vertices of constraint polytope, here an hypercube of dimension d with 2^d vertices. we generate vertices on the fly as binary arrays and evaluate them.
+We solved the following ILP problem using a very naive method since we did an exhaustive search over basic feasible solutions of this ILP. Basic feasible solutions are a subset of vertices of constraint polytope, here an hypercube of dimension d with 2^d vertices. we generate vertices on the fly as binary arrays and evaluate them.
 
-<img src="naive_lp_eq.png" width="25%">
+<img src="naive_lp_eq2.png" width="25%">
 
 <img src="naive_lp.gif" width="45%">
 
