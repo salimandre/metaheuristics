@@ -1,4 +1,4 @@
-# metaheuristics
+# Metaheuristics
 
 My own work for the Metaheuristics course consisted on implementing the following algorithms:
 * Brute Force Algorithm
